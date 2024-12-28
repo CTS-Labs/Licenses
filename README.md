@@ -7,4 +7,4 @@
 3. The license of the third version allows use in projects that have purchased a license to use the product's source code.
 
 
-**For more information, please read our Wiki.**
+[**For more information, please read our Wiki.**](https://github.com/CTS-Labs/Licenses/wiki)
