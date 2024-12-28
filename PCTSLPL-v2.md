@@ -1,6 +1,6 @@
 ### Paper.CTS Labs Public License v2 (PCTSLPL v2)
 
-All rights reserved
+**All rights reserved**
 
 This license implies the following:
 
